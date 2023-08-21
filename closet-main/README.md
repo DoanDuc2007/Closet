@@ -9,7 +9,6 @@
 #khi người dùng ấn huỷ thì trạng thái đơn hàng sẽ đc update lên 3
 #tạo thống kê bill
 
-<!-- 15/12 -->
 <!-- admin -->
 #khi người dùng đăng nhập vào, nếu như là admin sẽ xuất hiện nút vào trang admin thiết kế theo kiểu fixed
 #hoàn thiện thống kê admin
